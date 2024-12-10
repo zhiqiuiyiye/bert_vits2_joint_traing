@@ -1,0 +1,86 @@
+en_01|one hundred eighteen ringgit and twenty cents|* / W AH1 N / HH AH1 N D R AH0 D / EY0 T IY1 N / r i ŋ g i t / AH0 N D / T W EH1 N T IY0 / S EH1 N Z S / &
+en_02|one thousand one ringgit and twenty six cents|* / W AH1 N / TH AW1 Z AH0 N D / W AH1 N / r i ŋ g i t / AH0 N D / T W EH1 N T IY0 / S IH1 K K S / S EH1 N Z S / &
+en_03|twelve ringgit and six cents|* / T W EH1 L V / r i ŋ g i t / AH0 N D / S IH1 K K S / S EH1 N Z S / &
+en_04|one hundred fifty eight ringgit and ninety two cents|* / W AH1 N / HH AH1 N D R AH0 D / F IH1 F T IY0 / EY1 T / r i ŋ g i t / AH0 N D / N AY1 N T IY0 / T UW1 UW1 / S EH1 N Z S / &
+en_05|two hundred seventy three ringgit and forty five cents|* / T UW1 UW1 / HH AH1 N D R AH0 D / S EH1 V AH0 N T IY0 / TH R IY1 / r i ŋ g i t / AH0 N D / F AO1 R T IY0 / F AY1 V / S EH1 N Z S / &
+en_06|eighteen thousand two hundred ninety three ringgit and nine cents|* / EY0 T IY1 N / TH AW1 Z AH0 N D / T UW1 UW1 / HH AH1 N D R AH0 D / N AY1 N T IY0 / TH R IY1 / r i ŋ g i t / AH0 N D / N AY1 N / S EH1 N Z S / &
+en_07|five ringgit|* / F AY1 V / r i ŋ g i t / &
+en_08|seven ringgit twenty cents|* / S EH1 V AH0 N / r i ŋ g i t / T W EH1 N T IY0 / S EH1 N Z S / &
+en_09|twenty five ringgit and twelve cents|* / T W EH1 N T IY0 / F AY1 V / r i ŋ g i t / AH0 N D / T W EH1 L V / S EH1 N Z S / &
+en_10|ten thousand ringgit|* / T EH1 N / TH AW1 Z AH0 N D / r i ŋ g i t / &
+en_11|carol|* / K AE1 R AH0 L / &
+en_12|jasmine|* / JH AE1 Z M AH0 N / &
+en_13|helen|* / HH EH1 L AH0 N / &
+en_14|tanesh raju anak lelaki silvom raj|* / t a n ə s h / R AA1 Y UW0 / a n a ʔ / l ə l a k i / s i l v o m / R AA1 ZH / &
+en_15|resmitrah priya anak perempuan mathavan nair|* / r ə s m i t r a h / p r i j a / a n a ʔ / p ə r ə m p u a n / m a t h a v a n / N AH0 IY0 R / &
+en_16|ben ng jie|* / B EH1 N / EH1 NG / JH IY1 / &
+en_17|timothy johnson chow|* / T IH1 M AH0 TH IY0 / JH AA1 N S AH0 N / CH AW1 / &
+en_18|amelia iskandar anak perempuan lalu|* / AH1 M IY1 L Y AH0 / i s k a n d a r / a n a ʔ / p ə r ə m p u a n / l a l u / &
+en_19|ilyas noor hisham bin muhammad norarham|* / i l j a s / n o r / HH IH1 SH AH0 M / b i n / M UH0 HH AA1 M AH0 D / n o r a r h a m / &
+en_20|nur athirah adibah binti mohd nor zakaria|* / n u r / a t h i r a h / a d i b a h / b i n t i / M OW0 HH AA1 M EH0 D / n o r / z a k a r i a / &
+en_21|twenty seventh july twenty twenty two|* / T W EH1 N T IY0 / S EH1 V AH0 N TH TH + + / JH UW2 L AY1 / T W EH1 N T IY0 / T W EH1 N T IY0 / T UW1 UW1 / &
+en_22|second december twenty twenty four|* / S EH1 K AH0 N D / D IH0 S EH1 M B ER0 / T W EH1 N T IY0 / T W EH1 N T IY0 / F AO1 R / &
+en_23|ninth february|* / N AY1 N TH TH + + / F EH1 B Y AH0 W EH2 R IY0 / &
+en_24|twenty first january|* / T W EH1 N T IY0 / F ER1 S T / JH AE1 N Y UW0 EH2 R IY0 / &
+en_25|seventeenth april|* / S EH1 V AH0 N T IY1 N TH TH + + / EY1 P R AH0 L / &
+en_26|thirtieth november|* / TH ER1 D IY0 IH0 TH TH + + / N OW0 V EH1 M B ER0 / &
+en_27|twenty ninth august|* / T W EH1 N T IY0 / N AY1 N TH TH + + / AA1 G AH0 S T / &
+en_28|fifteenth march|* / F IH0 F T IY1 N TH TH + + / M AA1 R CH CH / &
+en_29|twenty first july|* / T W EH1 N T IY0 / F ER1 S T / JH UW2 L AY1 / &
+en_30|eleventh may|* / IH0 L EH1 V AH0 N TH TH + + / M EY1 / &
+en_31|i insurance for kasih family|* / AY1 / IH0 N SH UH1 R AH0 N S / F AO1 R / k a s i h / F AE1 M AH0 L IY0 / &
+en_32|e agro fifty retirement scheme|* / IY1 / AE1 G R OW0 / F IH1 F T IY0 / R IY0 T AY1 ER0 M AH0 N T / S K IY1 M / &
+en_33|e kasih famili plan|* / IY1 / k a s i h / f a m i l i / P L AE1 N / &
+en_34|pelan perlindungan takaful|* / p ə l a n / p ə r l i n d u ŋ a n / t a k a f u l / &
+en_35|a life health booster|* / EY1 / L AY1 F / HH EH1 L TH / B UW1 S T ER0 / &
+en_36|a life med regular|* / EY1 / L AY1 F / M EH1 D / R EH1 G Y AH0 L ER0 / &
+en_37|lazada pay day sale|* / l a z a d a / P EY1 / D EY1 / S EY1 L / &
+en_38|pelan takaful i lestari thirty|* / p ə l a n / t a k a f u l / AY1 / l ə s t a r i / TH ER1 D IY0 / &
+en_39|i gold pay insurance|* / AY1 / G OW1 L D / P EY1 / IH0 N SH UH1 R AH0 N S / &
+en_40|i savings e family|* / AY1 / S EY1 V IH0 NG Z / IY1 / F AE1 M AH0 L IY0 / &
+en_41|sixty percent|* / S IH1 K S T IY0 / P ER0 S EH1 N T / &
+en_42|zero point two|* / Z IH1 R OW0 / P OY1 N T T / T UW1 UW1 / &
+en_43|seventy five percent|* / S EH1 V AH0 N T IY0 / F AY1 V / P ER0 S EH1 N T / &
+en_44|zero point eight eight|* / Z IH1 R OW0 / P OY1 N T T / EY1 T / EY1 T / &
+en_45|twenty three percent|* / T W EH1 N T IY0 / TH R IY1 / P ER0 S EH1 N T / &
+en_46|one two three four five six seven eight nine|* / W AH1 N / T UW1 UW1 / TH R IY1 / F AO1 R / F AY1 V / S IH1 K K S / S EH1 V AH0 N / EY1 T / N AY1 N / &
+en_47|n two zero one two four two four nine one two|* / EH1 N / T UW1 UW1 / Z IH1 R OW0 / W AH1 N / T UW1 UW1 / F AO1 R / T UW1 UW1 / F AO1 R / N AY1 N / W AH1 N / T UW1 UW1 / &
+en_48|A d c one zero four one four one four one|* / EY1 / D IY1 / S IY1 / W AH1 N / Z IH1 R OW0 / F AO1 R / W AH1 N / F AO1 R / W AH1 N / F AO1 R / W AH1 N / &
+en_49|u s d one one four one four one nine nine nine four one|* / Y UW1 / EH1 S / D IY1 / W AH1 N / W AH1 N / F AO1 R / W AH1 N / F AO1 R / W AH1 N / N AY1 N / N AY1 N / N AY1 N / F AO1 R / W AH1 N / &
+en_50|x zero zero one nine three zero one k A|* / EH1 K S / Z IH1 R OW0 / Z IH1 R OW0 / W AH1 N / N AY1 N / TH R IY1 / Z IH1 R OW0 / W AH1 N / K EY1 / EY1 / &
+en_51|w k A zero zero nine two eight one seven z c|* / D AH1 B AH0 L Y UW0 / K EY1 / EY1 / Z IH1 R OW0 / Z IH1 R OW0 / N AY1 N / T UW1 UW1 / EY1 T / W AH1 N / S EH1 V AH0 N / Z IY1 / S IY1 / &
+en_52|v n one five six two eight zero zero one y|* / V IY1 / EH1 N / W AH1 N / F AY1 V / S IH1 K K S / T UW1 UW1 / EY1 T / Z IH1 R OW0 / Z IH1 R OW0 / W AH1 N / W AY1 / &
+en_53|q zero eight two nine one six eight three t r|* / K Y UW1 / Z IH1 R OW0 / EY1 T / T UW1 UW1 / N AY1 N / W AH1 N / S IH1 K K S / EY1 T / TH R IY1 / T IY1 / AA1 R / &
+en_54|z c x nine two eight one seven three zero zero five i|* / Z IY1 / S IY1 / EH1 K S / N AY1 N / T UW1 UW1 / EY1 T / W AH1 N / S EH1 V AH0 N / TH R IY1 / Z IH1 R OW0 / Z IH1 R OW0 / F AY1 V / AY1 / &
+en_55|o p eight three eight six three six one seven t g|* / OW1 / P IY1 / EY1 T / TH R IY1 / EY1 T / S IH1 K K S / TH R IY1 / S IH1 K K S / W AH1 N / S EH1 V AH0 N / T IY1 / JH IY1 / &
+en_56|jennifer wright one zero one zero at perfect mail dot com|* / JH EH1 N IY0 F ER0 / R AY1 T / W AH1 N / Z IH1 R OW0 / W AH1 N / Z IH1 R OW0 / AE1 T / P ER0 F EH1 K T / M EY1 L / d o t / K AA1 M / &
+en_57|eric dot evans one one one one at email world dot net|* / EH1 R IH0 K / d o t / EH1 V AH0 N Z / W AH1 N / W AH1 N / W AH1 N / W AH1 N / AE1 T / IY0 M EY1 L / W ER1 L D / d o t / N EH1 T / &
+en_58|karen dot hall one two one two at email pro dot o r g|* / K EH1 R AH0 N / d o t / HH AO1 L / W AH1 N / T UW1 UW1 / W AH1 N / T UW1 UW1 / AE1 T / IY0 M EY1 L / p r o / d o t / OW1 / AA1 R / JH IY1 / &
+en_59|tom dot murphy one three one three at your mail box dot com|* / T AA1 M / d o t / M ER1 F IY0 / W AH1 N / TH R IY1 / W AH1 N / TH R IY1 / AE1 T / Y AO1 R / M EY1 L / B AA1 K S / d o t / K AA1 M / &
+en_60|linda dot johnson one four one four at mail king dot net|* / L IH1 N D AH0 / d o t / JH AA1 N S AH0 N / W AH1 N / F AO1 R / W AH1 N / F AO1 R / AE1 T / M EY1 L / K IH1 NG / d o t / N EH1 T / &
+en_61|two A, persiaran surian, tropicana indah, four seven eight one zero petaling jaya, selangor|* / T UW1 UW1 / EY1 / , / p ə r s i a r a n / s u r i a n / , / T R AA2 P IH0 K AE1 N AH0 / i n d a h / , / F AO1 R / S EH1 V AH0 N / EY1 T / W AH1 N / Z IH1 R OW0 / p ə t a l i ŋ / d ʒ a j a / , / s ə l a ŋ o r / &
+en_62|two, jalan teknologi three five, kota damansara, four seven eight one zero petaling jalan, selangor|* / T UW1 UW1 / , / d ʒ a l a n / t ə ʔ n o l o g i / TH R IY1 / F AY1 V / , / k o t a / d a m a n s a r a / , / F AO1 R / S EH1 V AH0 N / EY1 T / W AH1 N / Z IH1 R OW0 / p ə t a l i ŋ / d ʒ a l a n / , / s ə l a ŋ o r / &
+en_63|lembaga pembangunan seni visual negara, two, jalan temerloh, off, jalan tun razak, five three two zero zero kuala lumpur|* / l ə m b a g a / p ə m b a ŋ u n a n / s ə n i / v i s u a l / n ə g a r a / , / T UW1 UW1 / , / d ʒ a l a n / t ə m ə r l o h / , / AO1 F / , / d ʒ a l a n / t u n / R AH0 Z AH1 K / , / F AY1 V / TH R IY1 / T UW1 UW1 / Z IH1 R OW0 / Z IH1 R OW0 / k u a l a / l u m p u r / &
+en_64|jalan genting kelang, section one wangsa maju, five three three zero zero kuala lumpur, wilayah persekutuan kuala lumpur|* / d ʒ a l a n / g ə n t i ŋ / k ə l a ŋ / , / S EH1 K SH AH0 N / W AH1 N / w a ŋ s a / m a d ʒ u / , / F AY1 V / TH R IY1 / TH R IY1 / Z IH1 R OW0 / Z IH1 R OW0 / k u a l a / l u m p u r / , / w i l a j a h / p ə r s ə k u t u a n / k u a l a / l u m p u r / &
+en_65|jalan melawati three, taman melawati, five three one zero zero ampang, wilayah persekutuan kuala lumpur|* / d ʒ a l a n / m ə l a w a t i / TH R IY1 / , / t a m a n / m ə l a w a t i / , / F AY1 V / TH R IY1 / W AH1 N / Z IH1 R OW0 / Z IH1 R OW0 / a m p a ŋ / , / w i l a j a h / p ə r s ə k u t u a n / k u a l a / l u m p u r / &
+en_66|Hi! Selamat datang ke kedai kami! How can I assist you hari ini?|* / HH AY1 / ! / s ə l a m a t / d a t a ŋ / k ə / k ə d a i / k a m i / ! / HH AW1 / K AE1 N / AY1 / AH0 S IH1 S T / Y UW1 / h a r i / i n i / ? / &
+en_67|Hello selamat sejahtera! Nama saya Mia, saya call ni dari Shopee Insurance. Boleh saya teruskan?|* / HH AH0 L OW1 / s ə l a m a t / s ə d ʒ a h t ə r a / . / n a m a / s a j a / M IY1 AH0 / , / s a j a / K AO1 L / N IY1 / d a r i / SH AA1 P IY0 / IH0 N SH UH1 R AH0 N S / . / b o l ə h / s a j a / t ə r u s k a n / ? / &
+test_01|Hi good morning, nama saya Aida buat panggilan dari C I M B Bank. Can I confirm if I am speaking with Miss Wan Noor Athina?|* / HH AY1 / G UH1 D / M AO1 R N IH0 NG / , / n a m a / s a j a / AY0 IY1 D AH0 / b u a t / p a ŋ g i l a n / d a r i / S IY1 / AY1 / EH1 M / B IY1 / b a n ʔ / . / K AE1 N / AY1 / K AH0 N F ER1 M / IH1 F / AY1 / a m / S P IY1 K IH0 NG / W IH1 DH / M IH1 S / w a n / n o r / a t h i n a / ? / &
+test_02|Sorry but based on our record, Cik sebenarnya ada lagi baki tertunggak sebanyak R M five hunderd ringgit since last week.|* / S AA1 R IY0 / B AH1 T / B EY1 S T / AA1 N / AW1 ER0 / R AH0 K AO1 R D / , / t ʃ i ʔ / s ə b ə n a r ɲ a / a d a / l a g i / b a k i / t ə r t u ŋ g a ʔ / s ə b a ɲ a ʔ / AA1 R / EH1 M / F AY1 V / HH AH1 N D R AH0 D / r i ŋ g i t / S IH1 N S / L AE1 S T / W IY1 K / . / &
+test_03|Hi! Selamat datang ke kedai kami! How can I assist you hari ini?|* / HH AY1 / ! / s ə l a m a t / d a t a ŋ / k ə / k ə d a i / k a m i / ! / HH AW1 / K AE1 N / AY1 / AH0 S IH1 S T / Y UW1 / h a r i / i n i / ? / &
+test_04|Maaf ya, saya tak sure tentang availability untuk item ini.|* / m a ʔ a f / j a / , / s a j a / t a ʔ / SH UH1 R / t ə n t a ŋ / AH0 V EY2 L AH0 B IH1 L AH0 T IY0 / u n t u ʔ / AY1 T AH0 M / i n i / . / &
+test_05|Saya akan check stock untuk you. Just tunggu sekejap ya.|* / s a j a / a k a n / CH EH1 K / S T AA1 K / u n t u ʔ / Y UW1 / . / JH AH1 S T / t u ŋ g u / s ə k ə d ʒ a p / j a / . / &
+test_06|Hello selamat sejahtera! Nama saya Mia, saya call ni dari Shopee Insurance. Boleh saya teruskan?|* / HH AH0 L OW1 / s ə l a m a t / s ə d ʒ a h t ə r a / . / n a m a / s a j a / M IY1 AH0 / , / s a j a / K AO1 L / N IY1 / d a r i / SH AA1 P IY0 / IH0 N SH UH1 R AH0 N S / . / b o l ə h / s a j a / t ə r u s k a n / ? / &
+test_07|Oh ya ke, okay. Tapi pembelian insurans kereta dengan Shopee, sangat cepat dan mudah dan boleh bahagikan pembayaran insurans ni kepada beberapa bulan instalment. Cik berminat ke?|* / o h / j a / k ə / , / OW2 K EY1 / . / t a p i / p ə m b ə l i a n / i n s u r a n s / k ə r ə t a / d ə ŋ a n / SH AA1 P IY0 / , / s a ŋ a t / t ʃ ə p a t / d a n / m u d a h / d a n / b o l ə h / b a h a g i k a n / p ə m b a j a r a n / i n s u r a n s / N IY1 / k ə p a d a / b ə b ə r a p a / b u l a n / i n s t a l m ə n t / . / t ʃ i ʔ / b ə r m i n a t / k ə / ? / &
+test_08|Promosi ni akan diberikan secara automatik semasa proses pembayaran. Nanti kami akan hantarkan whatsapp kepada Cik beserta details selepas panggilan ni ya.|* / p r o m o s i / N IY1 / a k a n / d i b ə r i k a n / s ə t ʃ a r a / a u t o m a t i ʔ / s ə m a s a / p r o s ə s / p ə m b a j a r a n / . / n a n t i / k a m i / a k a n / h a n t a r k a n / w h a t s a p / k ə p a d a / t ʃ i ʔ / b ə s ə r t a / D IH0 T EY1 L Z / s ə l ə p a s / p a ŋ g i l a n / N IY1 / j a / . / &
+test_09|Macam ni, nanti saya akan dapatkan ejen saya untuk call semula ya berkaitan ni. Terima kasih, selamat sejahtera, bye!|* / m a t ʃ a m / N IY1 / , / n a n t i / s a j a / a k a n / d a p a t k a n / ə d ʒ ə n / s a j a / u n t u ʔ / K AO1 L / s ə m u l a / j a / b ə r k a i t a n / N IY1 / . / t ə r i m a / k a s i h / , / s ə l a m a t / s ə d ʒ a h t ə r a / , / B AY1 / . / &
+test_10|Saya nak pastikan kalau ini kumpulan Abu Bin Muhammad Adam, Jeremy Lee Brian dan Ravindren Kumar.|* / s a j a / n a ʔ / p a s t i k a n / k a l a u / i n i / k u m p u l a n / a b u / b i n / M UH0 HH AA1 M AH0 D / a d a m / , / JH EH1 R AH0 M IY0 / L IY0 / B R AY1 AH0 N / d a n / r a v i n d r ə n / K UW0 M AA1 R / . / &
+test_11|This call will be a quick one, just around two minutes.|* / DH IH1 S / K AO1 L / W IH1 L / b ə / AH0 / K W IH1 K / W AH1 N / , / JH AH1 S T / ER0 AW1 N D / T UW1 UW1 / M IH1 N AH0 T S / . / &
+test_12|I'm sorry, but I'm calling just to offer a car insurance promotion from Shopee Insurance. Umm okay, if you have any questions about this, you may refer to Shopee app.|* / AY1 M / S AA1 R IY0 / , / B AH1 T / AY1 M / K AO1 L IH0 NG / JH AH1 S T / T UW1 / AO1 F ER0 / AH0 / K AA1 R / IH0 N SH UH1 R AH0 N S / P R AH0 M OW1 SH AH0 N / F R AH1 M / SH AA1 P IY0 / IH0 N SH UH1 R AH0 N S / . / AH1 M / OW2 K EY1 / , / IH1 F / Y UW1 / HH AE1 V / EH1 N IY0 / K W EH1 S CH AH0 N Z / AH0 B AW1 T / DH IH1 S / , / Y UW1 / M EY1 / R AH0 F ER1 / T UW1 / SH AA1 P IY0 / AE1 P / . / &
+test_13|Hello good day! My name is Mia, calling from Shopee Insurance. May I proceed? This will only take around one to two minutes only.|* / HH AH0 L OW1 / G UH1 D / D EY1 / . / M AY1 / N EY1 M / IH1 Z / M IY1 AH0 / , / K AO1 L IH0 NG / F R AH1 M / SH AA1 P IY0 / IH0 N SH UH1 R AH0 N S / . / M EY1 / AY1 / P R AH0 S IY1 D / ? / DH IH1 S / W IH1 L / OW1 N L IY0 / T EY1 K / ER0 AW1 N D / W AH1 N / T UW1 / T UW1 UW1 / M IH1 N AH0 T S / OW1 N L IY0 / . / &
+test_14|Uhm I'm sorry, I thnk the line is a bit unclear now, I cant hear you clearly. I'll get my colleague to call you back later for this ya. Thank you, have a nice day, bye!|* / u h m / AY1 M / S AA1 R IY0 / , / AY1 / t h n ʔ / DH AH0 / L AY1 N / IH1 Z / AH0 / b i t / AH0 N K L IH1 R / N AW1 / , / AY1 / K AE1 N T / HH IY1 R / Y UW1 / K L IH1 R L IY0 / . / AY1 L / G EH1 T / M AY1 / K AA1 L IY0 G / T UW1 / K AO1 L / Y UW1 / B AE1 K / L EY1 T ER0 / F AO1 R / DH IH1 S / j a / . / TH AE1 NG K / Y UW1 / , / HH AE1 V / AH0 / N AY1 S / D EY1 / , / B AY1 / . / &
+test_15|I see, okay no worries. If you require further information, you may log in to Shopee Malaysia to enjoy this program ya. Thank you, have a nice day, bye!|* / AY1 / S IY1 / , / OW2 K EY1 / N OW1 / W ER1 IY0 Z / . / IH1 F / Y UW1 / R IY2 K W AY1 ER0 / F ER1 DH ER0 / IH2 N F ER0 M EY1 SH AH0 N / , / Y UW1 / M EY1 / L AO1 G / IH0 N / T UW1 / SH AA1 P IY0 / M AH0 L EY1 ZH AH0 / T UW1 / EH0 N JH OY1 / DH IH1 S / p r o g r a m / j a / . / TH AE1 NG K / Y UW1 / , / HH AE1 V / AH0 / N AY1 S / D EY1 / , / B AY1 / . / &
+test_16|Hello selamat sejahtera! Nama saya Maya, buat panggilan bagi pihak Maybank. Boleh saya bercakap dengan Cik zariza?|* / HH AH0 L OW1 / s ə l a m a t / s ə d ʒ a h t ə r a / . / n a m a / s a j a / m a j a / , / b u a t / p a ŋ g i l a n / b a g i / p i h a ʔ / m a j b a n ʔ / . / b o l ə h / s a j a / b ə r t ʃ a k a p / d ə ŋ a n / t ʃ i ʔ / z a r i z a / ? / &
+test_17|Boleh saya bercakap dengan Cik zariza?|* / b o l ə h / s a j a / b ə r t ʃ a k a p / d ə ŋ a n / t ʃ i ʔ / z a r i z a / ? / &
+test_18|Ohh okay sorry. Um my name is Maya, and I am calling from Maybank. Can I confirm if I am speaking to zariza?|* / o h / OW2 K EY1 / S AA1 R IY0 / . / AH1 M / M AY1 / N EY1 M / IH1 Z / m a j a / , / AH0 N D / AY1 / a m / K AO1 L IH0 NG / F R AH1 M / m a j b a n ʔ / . / K AE1 N / AY1 / K AH0 N F ER1 M / IH1 F / AY1 / a m / S P IY1 K IH0 NG / T UW1 / z a r i z a / ? / &
+test_19|Can I confirm if I am speaking to zariza?|* / K AE1 N / AY1 / K AH0 N F ER1 M / IH1 F / AY1 / a m / S P IY1 K IH0 NG / T UW1 / z a r i z a / ? / &

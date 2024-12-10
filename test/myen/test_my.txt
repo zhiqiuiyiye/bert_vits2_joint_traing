@@ -1,0 +1,65 @@
+my_01|seratus lapan belas ringgit dua puluh sen
+my_02|seribu satu ringgit dua puluh enam sen
+my_03|dua belas ringgit enam sen
+my_04|seratus lima puluh lapan ringgit sembilan puluh dua sen
+my_05|dua ratus tujuh puluh tiga ringgit empat puluh lima sen
+my_06|lapan belas ribu dua ratus sembilan puluh tiga ringgit sembilan sen
+my_07|lima ringgit
+my_08|tujuh ringgit dua puluh sen
+my_09|dua puluh lima ringgit dua belas sen
+my_10|sepuluh ribu ringgit
+my_11|carol
+my_12|jasmine
+my_13|helen
+my_14|tanesh raju anak lelaki silvom raj
+my_15|resmitrah priya anak perempuan mathavan nair
+my_16|ben ng jie
+my_17|timothy johnson chow
+my_18|amelia iskandar anak perempuan lalu
+my_19|ilyas noor hisham bin muhammad norarham
+my_20|nur athirah adibah binti mohd nor zakaria
+my_21|dua puluh tujuh julai dua ribu dua puluh dua
+my_22|dua disember dua ribu dua puluh empat
+my_23|sembilan februari
+my_24|dua puluh satu januari
+my_25|tujuh belas april
+my_26|tiga puluh november
+my_27|dua puluh sembilan ogos
+my_28|lima belas mac
+my_29|dua puluh satu julai
+my_30|sebelas mei
+my_31|i insurance for kasih family
+my_32|e agro lima puluh retirement scheme
+my_33|e kasih famili plan
+my_34|pelan perlindungan takaful
+my_35|A life health booster
+my_36|A life med regular
+my_37|lazada pay day sale
+my_38|pelan takaful i lestari tiga puluh
+my_39|i gold pay insurance
+my_40|i savings e family
+my_41|enam puluh peratus
+my_42|kosong poin dua
+my_43|tujuh puluh lima peratus
+my_44|kosong poin lapan lapan
+my_45|dua puluh tiga peratus
+my_46|satu dua tiga empat lima enam tujuh lapan sembilan
+my_47|n dua kosong satu dua empat dua empat sembilan satu dua
+my_48|A d c satu kosong empat satu empat satu empat satu
+my_49|u s d satu satu empat satu empat satu sembilan sembilan sembilan empat satu
+my_50|x kosong kosong satu sembilan tiga kosong satu k A
+my_51|w k A kosong kosong sembilan dua lapan satu tujuh z c
+my_52|v n satu lima enam dua lapan kosong kosong satu y
+my_53|q kosong lapan dua sembilan satu enam lapan tiga t r
+my_54|z c x sembilan dua lapan satu tujuh tiga kosong kosong lima i
+my_55|o p lapan tiga lapan enam tiga enam satu tujuh t g
+my_56|jennifer wright satu kosong satu kosong at perfect mail dot com
+my_57|eric dot evans satu satu satu satu at email world dot net
+my_58|karen dot hall satu dua satu dua at email pro dot o r g
+my_59|tom dot murphy satu tiga satu tiga at your mail box dot com
+my_60|linda dot johnson satu empat satu empat at mail king dot net
+my_61|dua A, persiaran surian, tropicana indah, empat tujuh lapan satu kosong petaling jaya, selangor
+my_62|dua, jalan teknologi tiga lima, kota damansara, empat tujuh lapan satu kosong petaling jaya, selangor
+my_63|lembaga pembangunan seni visual negara, dua, jalan temerloh, off, jalan tun razak, lima tiga dua kosong kosong kuala lumpur
+my_64|jalan genting kelang, seksyen satu wangsa maju, lima tiga tiga kosong kosong kuala lumpur, wilayah persekutuan kuala lumpur
+my_65|jalan melawati tiga, taman melawati, lima tiga satu kosong kosong ampang, wilayah persekutuan kuala lumpur

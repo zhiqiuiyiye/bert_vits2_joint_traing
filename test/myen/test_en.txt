@@ -1,0 +1,67 @@
+en_01|one hundred eighteen ringgit and twenty cents
+en_02|one thousand one ringgit and twenty six cents
+en_03|twelve ringgit and six cents
+en_04|one hundred fifty eight ringgit and ninety two cents
+en_05|two hundred seventy three ringgit and forty five cents
+en_06|eighteen thousand two hundred ninety three ringgit and nine cents
+en_07|five ringgit
+en_08|seven ringgit twenty cents
+en_09|twenty five ringgit and twelve cents
+en_10|ten thousand ringgit
+en_11|carol
+en_12|jasmine
+en_13|helen
+en_14|tanesh raju anak lelaki silvom raj
+en_15|resmitrah priya anak perempuan mathavan nair
+en_16|ben ng jie
+en_17|timothy johnson chow
+en_18|amelia iskandar anak perempuan lalu
+en_19|ilyas noor hisham bin muhammad norarham
+en_20|nur athirah adibah binti mohd nor zakaria
+en_21|twenty seventh july twenty twenty two
+en_22|second december twenty twenty four
+en_23|ninth february
+en_24|twenty first january
+en_25|seventeenth april
+en_26|thirtieth november
+en_27|twenty ninth august
+en_28|fifteenth march
+en_29|twenty first july
+en_30|eleventh may
+en_31|i insurance for kasih family
+en_32|e agro fifty retirement scheme
+en_33|e kasih famili plan
+en_34|pelan perlindungan takaful
+en_35|a life health booster
+en_36|a life med regular
+en_37|lazada pay day sale
+en_38|pelan takaful i lestari thirty
+en_39|i gold pay insurance
+en_40|i savings e family
+en_41|sixty percent
+en_42|zero point two
+en_43|seventy five percent
+en_44|zero point eight eight
+en_45|twenty three percent
+en_46|one two three four five six seven eight nine
+en_47|n two zero one two four two four nine one two
+en_48|A d c one zero four one four one four one
+en_49|u s d one one four one four one nine nine nine four one
+en_50|x zero zero one nine three zero one k A
+en_51|w k A zero zero nine two eight one seven z c
+en_52|v n one five six two eight zero zero one y
+en_53|q zero eight two nine one six eight three t r
+en_54|z c x nine two eight one seven three zero zero five i
+en_55|o p eight three eight six three six one seven t g
+en_56|jennifer wright one zero one zero at perfect mail dot com
+en_57|eric dot evans one one one one at email world dot net
+en_58|karen dot hall one two one two at email pro dot o r g
+en_59|tom dot murphy one three one three at your mail box dot com
+en_60|linda dot johnson one four one four at mail king dot net
+en_61|two A, persiaran surian, tropicana indah, four seven eight one zero petaling jaya, selangor
+en_62|two, jalan teknologi three five, kota damansara, four seven eight one zero petaling jalan, selangor
+en_63|lembaga pembangunan seni visual negara, two, jalan temerloh, off, jalan tun razak, five three two zero zero kuala lumpur
+en_64|jalan genting kelang, section one wangsa maju, five three three zero zero kuala lumpur, wilayah persekutuan kuala lumpur
+en_65|jalan melawati three, taman melawati, five three one zero zero ampang, wilayah persekutuan kuala lumpur
+en_66|Hi! Selamat datang ke kedai kami! How can I assist you hari ini?
+en_67|Hello selamat sejahtera! Nama saya Mia, saya call ni dari Shopee Insurance. Boleh saya teruskan? 
